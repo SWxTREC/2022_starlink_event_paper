@@ -6,4 +6,4 @@ Authors: T. E. Berger, M. Dominique, G. Lucas, M. Pilinski, V. Ray, R. Sewell, E
 
 ## Citation
 
-> TODO: Include DOI/citation information when available
+https://doi.org/10.1029/2022SW003330
